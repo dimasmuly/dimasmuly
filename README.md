@@ -8,4 +8,4 @@ I'm a software engineer passionate about making contributions to open source mor
 - Contact me on <a href="https://www.instagram.com/dmsmulya_">Instagram</a> or <a href="https://twitter.com/Hanma2302">Twitter</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/HanmaShuji"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/dimas-mulya-8552191b7/">LinkedIn</a> 💼
-- My Website Profile on <a href="http://dimsmly.rf.gd/?i=1">Dimas Mulya</a>🌏
+- My Website Profile on <a href="http://dimsmly.rf.gd/?i=1">Dimas Mulya</a> 🌏
