@@ -6,10 +6,10 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></a>
 
- - Contact me on <a href="https://www.instagram.com/dmsmulya_">Instagram</a> or <a href="https://twitter.com/Hanma2302">Twitter</a> 📹 ✍🏾
- - Tinkering with interactions on <a href="https://codepen.io/HanmaShuji"> Codepen</a> 🏓
- - Sharing updates on <a href="https://www.linkedin.com/in/dimas-mulya-8552191b7/">LinkedIn</a> 💼
- - My Website Profile on <a href="http://dimsmly.rf.gd/?i=1">Dimas Mulya</a> 🌏
+  Contact me on <a href="https://www.instagram.com/dmsmulya_">Instagram</a> or <a href="https://twitter.com/Hanma2302">Twitter</a> 📹 ✍🏾
+  Tinkering with interactions on <a href="https://codepen.io/HanmaShuji"> Codepen</a> 🏓
+  Sharing updates on <a href="https://www.linkedin.com/in/dimas-mulya-8552191b7/">LinkedIn</a> 💼
+  My Website Profile on <a href="http://dimsmly.rf.gd/?i=1">Dimas Mulya</a> 🌏
 
 ### Tools:
 <p>
